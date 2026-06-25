@@ -20,31 +20,6 @@ I enjoy solving complex engineering problems, building reliable software, and cr
 
 Python • C# • React • Next.js • Node.js • ASP.NET Core • Laravel • PostgreSQL • MongoDB • OpenAI • LangChain • Docker
 
-
-## Selected Projects
-
-### AI Automation Platform
-
-AI-powered automation platform integrating OpenAI, LangChain, APIs, and workflow automation.
-
-### Multi-Tenant SaaS Dashboard
-
-React, Node.js, PostgreSQL
-
-Authentication, subscriptions, REST APIs, and scalable architecture.
-
-### Enterprise REST API
-
-ASP.NET Core, JWT Authentication, Clean Architecture, Entity Framework.
-
-### Python Automation Suite
-
-Document processing, data extraction, Excel reporting, and workflow automation.
-
-### MERN Production Application
-
-Production support, feature development, bug fixing, and performance optimization.
-
 ## Interests
 
 * Artificial Intelligence
