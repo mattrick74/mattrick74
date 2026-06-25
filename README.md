@@ -16,59 +16,10 @@ I enjoy solving complex engineering problems, building reliable software, and cr
 * Performance Optimization
 * Production Support & Maintenance
 
-## Technologies
+## Tech Stack
 
-**Languages**
+Python • C# • React • Next.js • Node.js • ASP.NET Core • Laravel • PostgreSQL • MongoDB • OpenAI • LangChain • Docker
 
-* Python
-* JavaScript
-* TypeScript
-* C#
-* PHP
-* SQL
-
-**Frontend**
-
-* React
-* Next.js
-* Vue.js
-* HTML
-* CSS
-* Tailwind CSS
-
-**Backend**
-
-* Node.js
-* Express.js
-* ASP.NET Core
-* Laravel
-* FastAPI
-* Django
-
-**AI**
-
-* OpenAI API
-* LangChain
-* AI Agents
-* RAG
-* Prompt Engineering
-
-**Databases**
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Firebase
-* Supabase
-
-**Cloud & DevOps**
-
-* Docker
-* GitHub Actions
-* AWS
-* Azure
-* Vercel
-* Netlify
 
 ## Selected Projects
 
