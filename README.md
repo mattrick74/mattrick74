@@ -2,36 +2,36 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/csharpdragon"/></a>
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mattrick74"/></a>
   <a href="#">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/csharpdragon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mattrick74?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
 </p>
 
 <p  align="center">
-  <a href="https://github.com/csharpdragon/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="csharpdragon" src="https://github-readme-streak-stats.herokuapp.com/?user=csharpdragon&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/mattrick74/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mattrick74" src="https://github-readme-streak-stats.herokuapp.com/?user=mattrick74&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/csharpdragon/github-readme-stats">
+  <a href="https://github.com/mattrick74/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=csharpdragon&count_private=true&show_icons=true&custom_title=csharpdragon's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=mattrick74&count_private=true&show_icons=true&custom_title=mattrick74's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
-  <a href="https://github.com/csharpdragon/github-readme-stats">
+  <a href="https://github.com/mattrick74/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdragon&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattrick74&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
 ## Achievements
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=csharpdragon&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=mattrick74&column=7" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
