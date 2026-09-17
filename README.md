@@ -1,4 +1,4 @@
-# Sanwal
+
 
 Senior Full-Stack & AI Software Engineer with experience designing and building scalable web applications, SaaS platforms, AI-powered solutions, and backend systems.
 
